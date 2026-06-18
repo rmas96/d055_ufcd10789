@@ -1,0 +1,8 @@
+// posso indicar manualmente os arquivos a serem ignorados, ou seja, não serão monitorados pelo git.
+site1.zip
+
+// posso indicar os tipos de arquivos a serem ignorados, ou seja, não serão monitorados pelo git.
+*.zip
+
+// posso indicar pastas inteiras a serem ignoradas, ou seja, não serão monitoradas pelo git.
+/venv
