@@ -1,0 +1,13 @@
+img {
+    width: 50%;
+    display: block; /* Center the image */
+    margin: auto;
+    }
+
+iframe {
+    width: 50%;
+    height: 400px;
+    display: block;
+    margin: auto;
+    border: none;
+    }
